@@ -214,7 +214,7 @@ let mut a: f32 = 1.0;
           }
     }
     
-    println!("{:.?}",a);
+    println!("{:?}",a);
     }
     let mut y = 1.0;
     for i in 0 .. row_index{
